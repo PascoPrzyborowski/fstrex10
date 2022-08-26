@@ -7,6 +7,6 @@
 def my_list(go_shopping):
     return ", ".join(go_shopping)
 
-
+print()
 print(my_list(["Bananas", "Apples", "Milk", "Müsli", "and some Vegitarian!"]))
-
+print()
